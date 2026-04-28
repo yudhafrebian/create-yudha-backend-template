@@ -38,7 +38,7 @@ npm run dev
 ## Folder Architecture
 
 The generated project follows a modular structure to keep your logic organized:
-[src/config]
+
 - src/config: Global configurations (Database, Third-party APIs).
 - src/controllers: Handles HTTP requests and sends back responses.
 - src/services: Contains core business logic.
